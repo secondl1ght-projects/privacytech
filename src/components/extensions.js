@@ -35,7 +35,7 @@ export default function Extensions() {
           <img src={clear} alt="ClearURLs logo" />
           <p>
             Websites can add extra and unnecessary information to URLs in order
-            to track you. This extensions clears all of that metadata giving you
+            to track you. This extension clears all of that metadata, giving you
             only the URL you actually require to surf the web.
           </p>
         </div>
@@ -52,7 +52,7 @@ export default function Extensions() {
           <img src={cookie} alt="Cookie AutoDelete logo" />
           <p>
             We all hate cookies that follow you around the internet right? Well
-            if you don't want to disable them entirely in your browser then you
+            if you don't want to disable them entirely in your browser, then you
             can add this extension and set the parameters for when you would
             like them to be removed.
           </p>
@@ -106,7 +106,7 @@ export default function Extensions() {
             >
               Let's Encrypt!
             </a>
-            . If you visit a website using HTTP instead of HTTPS that means any
+            . If you visit a website using HTTP instead of HTTPS, that means any
             data you enter is wide open for the world to see, including credit
             card information. This extension will force all websites to use
             HTTPS.
@@ -127,7 +127,7 @@ export default function Extensions() {
             Privacy Redirect is an awesome extension that will redirect URLs
             from popular sites like Twitter, Reddit, YouTube and IG to privacy
             respecting front-ends. This way you still get to view the content
-            you want but you do so in a much better way.
+            you want, but you do so in a much better way.
           </p>
         </div>
         <div class="box">

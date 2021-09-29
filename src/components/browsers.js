@@ -42,7 +42,7 @@ export default function Browsers() {
         </div>
         <div class="box">
           <h4>
-            <a href="https://torproject.org/" target="_blank" rel="noreferrer">
+            <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
               Tor Browser
             </a>
           </h4>

@@ -19,7 +19,7 @@ export default function Email() {
   } else {
     return (
       <div className="cardclick" id="email">
-        <h2>Private Emails</h2>
+        <h2>Private Email</h2>
         <h3>Secure correspondence</h3>
         <div class="box">
           <h4>
