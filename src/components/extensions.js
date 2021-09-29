@@ -1,10 +1,10 @@
 import React from "react";
 import clear from "../images/clear.jpg";
 import cookie from "../images/cookie.jpg";
-import decentraleyes from "./images/decentraleyes.jpg";
-import eff from "./images/eff.png";
-import redirect from "./images/redirect.jpg";
-import block from "./images/block.jpg";
+import decentraleyes from "../images/decentraleyes.jpg";
+import eff from "../images/eff.png";
+import redirect from "../images/redirect.jpg";
+import block from "../images/block.jpg";
 
 export default function Extensions() {
   const [initial, setInitial] = React.useState(true);

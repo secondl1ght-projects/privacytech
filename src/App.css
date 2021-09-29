@@ -17,7 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #B58AEE;
+  background-color: #6CEFFB;
   box-shadow: 5px 5px 5px black;
 }
 
@@ -29,19 +29,19 @@
   border-radius: 5%;
   overflow: auto;
   text-align: center;
-  background-color: #B58AEE;
+  background-color: #6CEFFB;
   animation: fadeIn 1s;
   box-shadow: 5px 5px 5px black;
 }
 
-/*#exchange {
-  background-image: url('./images/exchange.jpg');
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
+#email {
+  background-image: url('./images/emailpic.jpg');
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
   background-repeat: no-repeat;
   background-position: center;
 }
 
-#hwallet {
+/*#hwallet {
   background-image: url('./images/hwallet.jpg');
   background-repeat: no-repeat;
   background-position: center;
@@ -110,22 +110,22 @@ button {
   background-color: black;
   border-radius: 2.5%;
   color: whitesmoke;
-  border: 5px solid #6E34BC;
+  border: 5px solid #1AB8C7;
   font-size: 1.5rem;
 }
 
 button:hover {
   border: 5px solid whitesmoke;
-  color: #6E34BC;
+  color: #1AB8C7;
 }
 
 button:active {
   border: 5px solid whitesmoke;
-  color: #6E34BC;
+  color: #1AB8C7;
 }
 
 html {
-  background-color: #523E6B;
+  background-color: #35757A;
   position: relative;
   min-height: 100%;
   border: 1px solid black;
@@ -178,7 +178,7 @@ img {
 }
 
 a {
-  background-color: rgba(139, 66, 235, 0.7);
+  background-color: rgba(26, 184, 199, 0.7);
   color: whitesmoke;
   padding: 1%;
   border-radius: 2.5%;
@@ -205,7 +205,7 @@ footer a:hover {
 }
 
 #git:hover {
-  color: #523E6B;
+  color: #1AB8C7;
 }
 
 @media only screen and (max-width: 770px) {
