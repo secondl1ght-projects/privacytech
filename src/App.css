@@ -63,48 +63,54 @@
   margin-bottom: 5%;
 }
 
-/*#blocks {
-  background-image: url('./images/blocks.jpg');
+#messaging {
+  background-image: url('./images/messaging.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
 }
 
-#nodes {
-  background-image: url('./images/nodes.jpg');
+#operating {
+  background-image: url('./images/operating.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
 }
 
-#whirlpool {
-  background-image: url('./images/whirlpool.jpg');
+#search {
+  background-image: url('./images/engine.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
 }
 
-#lightning {
-  background-image: url('./images/lightning.jpg');
+#social {
+  background-image: url('./images/social.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
 }
 
-#chart {
-  background-image: url('./images/chart.jpg');
+#stores {
+  background-image: url('./images/store.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
 }
 
-#books {
-  background-image: url('./images/books.jpg');
+#tunnel {
+  background-image: url('./images/tunnel.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(181, 138, 238, .7);
-  margin-bottom: 5%;
-}*/
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+}
+
+#video {
+  background-image: url('./images/video.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+}
 
 button {
   padding: 3%;

@@ -1,6 +1,7 @@
 import React from "react";
 import brave from "../images/brave.jpg";
 import tor from "../images/tor.jpg";
+import bromite from '../images/bromite.png';
 
 export default function Browsers() {
   const [initial, setInitial] = React.useState(true);
@@ -57,6 +58,17 @@ export default function Browsers() {
             people worldwide who's lives depend on privacy. If you enjoy the
             service or just want to support human rights, please consider
             donating to the Tor Project.
+          </p>
+        </div>
+        <div class="box">
+          <h4>
+            <a href="https://www.bromite.org/" target="_blank" rel="noreferrer">
+              Bromite
+            </a>
+          </h4>
+          <img src={bromite} alt="Bromite logo" />
+          <p>
+            Bromite is a good mobile-only option and available on F-Droid.
           </p>
         </div>
       </div>
