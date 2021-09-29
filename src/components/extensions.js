@@ -2,7 +2,9 @@ import React from "react";
 import clear from "../images/clear.jpg";
 import cookie from "../images/cookie.jpg";
 import decentraleyes from "./images/decentraleyes.jpg";
-import eff from './images/eff.png';
+import eff from "./images/eff.png";
+import redirect from "./images/redirect.jpg";
+import block from './images/block.jpg';
 
 export default function Extensions() {
   const [initial, setInitial] = React.useState(true);
@@ -83,15 +85,67 @@ export default function Extensions() {
           </h4>
           <img src={eff} alt="HTTPS Everywhere logo" />
           <p>
-            Brought to you by the good folks at the <a href='https://eff.org' rel='noreferrer' target="_blank" id='normal'>Electronic Frontier
-            Foundation</a>, HTTPS Everywhere is essential. Some browsers have this
-            available as a setting now but the extension is still a good add-on.
-            There is really no excuse for a website to not have a certificate
-            these days seeing as they are available for free from <a href='https://letsencrypt.org/' rel='noreferrer' target="_blank" id='normal'>Let's
-            Encrypt!</a>. If you visit a website using HTTP instead of HTTPS that
-            means any data you enter is wide open for the world to see, including
-            credit card information. This extension will force all websites to
-            use HTTPS.
+            Brought to you by the good folks at the{" "}
+            <a
+              href="https://eff.org"
+              rel="noreferrer"
+              target="_blank"
+              id="normal"
+            >
+              Electronic Frontier Foundation
+            </a>
+            , HTTPS Everywhere is essential. Some browsers have this available
+            as a setting now but the extension is still a good add-on. There is
+            really no excuse for a website to not have a certificate these days
+            seeing as they are available for free from{" "}
+            <a
+              href="https://letsencrypt.org/"
+              rel="noreferrer"
+              target="_blank"
+              id="normal"
+            >
+              Let's Encrypt!
+            </a>
+            . If you visit a website using HTTP instead of HTTPS that means any
+            data you enter is wide open for the world to see, including credit
+            card information. This extension will force all websites to use
+            HTTPS.
+          </p>
+        </div>
+        <div class="box">
+          <h4>
+            <a
+              href="https://github.com/SimonBrazell/privacy-redirect"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Privacy Redirect
+            </a>
+          </h4>
+          <img src={redirect} alt="Privacy Redirect logo" />
+          <p>
+            Privacy Redirect is an awesome extension that will redirect URLs
+            from popular sites like Twitter, Reddit, YouTube and IG to privacy
+            respecting front-ends. This way you still get to view the content
+            you want but you do so in a much better way.
+          </p>
+        </div>
+        <div class="box">
+          <h4>
+            <a
+              href="https://ublockorigin.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              uBlock Origin
+            </a>
+          </h4>
+          <img src={block} alt="uBlock Origin logo" />
+          <p>
+            The web browsers I recommend will come with ad and tracking
+            blocking by default. However, I like to use uBlock on top of these
+            default settings for anything that may slip through the initial
+            filters.
           </p>
         </div>
       </div>
