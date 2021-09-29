@@ -4,7 +4,7 @@ import cookie from "../images/cookie.jpg";
 import decentraleyes from "./images/decentraleyes.jpg";
 import eff from "./images/eff.png";
 import redirect from "./images/redirect.jpg";
-import block from './images/block.jpg';
+import block from "./images/block.jpg";
 
 export default function Extensions() {
   const [initial, setInitial] = React.useState(true);
@@ -142,10 +142,9 @@ export default function Extensions() {
           </h4>
           <img src={block} alt="uBlock Origin logo" />
           <p>
-            The web browsers I recommend will come with ad and tracking
-            blocking by default. However, I like to use uBlock on top of these
-            default settings for anything that may slip through the initial
-            filters.
+            The web browsers I recommend will come with ad and tracking blocking
+            by default. However, I like to use uBlock on top of these default
+            settings for anything that may slip through the initial filters.
           </p>
         </div>
       </div>
