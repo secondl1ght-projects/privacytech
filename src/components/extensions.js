@@ -2,6 +2,7 @@ import React from "react";
 import clear from "../images/clear.jpg";
 import cookie from "../images/cookie.jpg";
 import decentraleyes from "./images/decentraleyes.jpg";
+import eff from './images/eff.png';
 
 export default function Extensions() {
   const [initial, setInitial] = React.useState(true);
@@ -80,7 +81,7 @@ export default function Extensions() {
               HTTPS Everywhere
             </a>
           </h4>
-          <img src={https} alt="HTTPS Everywhere logo" />
+          <img src={eff} alt="HTTPS Everywhere logo" />
           <p>
             Brought to you by the good folks at the <a href='https://eff.org' rel='noreferrer' target="_blank" id='normal'>Electronic Frontier
             Foundation</a>, HTTPS Everywhere is essential. Some browsers have this
