@@ -260,4 +260,9 @@ footer a:hover {
   .cardintro, .cardclick {
     height: 25rem;
   }
+
+  #intro, h1, figure {
+    width: 75%;
+  }
+
 }
