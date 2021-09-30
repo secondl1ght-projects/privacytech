@@ -2,7 +2,7 @@
 
 A collection of useful privacy technologies to help protect your data and identity in the digital age.
 
-Link placeholder
+Link to site: <https://www.privacyresource.tech>
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Link placeholder
 
 ## General Information
 
-This website will be similar to privacytools.io except more condensed using personal recommendations. Visitors can find information about how to better protect their privacy online in the digital age.
+Visitors can find information about how to better improve their privacy online.
 
 ## Technologies Used
 
@@ -26,6 +26,8 @@ This website will be similar to privacytools.io except more condensed using pers
 -   CSS
 -   JavaScript
 -   React
+-   Netlify
+-   Yarn
 
 ## Features
 
@@ -39,11 +41,12 @@ This website will be similar to privacytools.io except more condensed using pers
 -   Social Media Front-Ends
 -   App Stores
 -   VPNs
+-   Video Calls
 -   And more!
 
 ## Screenshots
 
-Screenshot placeholder
+![screenshot](./src/images/screenshot.png)
 
 ## Usage
 
@@ -53,11 +56,11 @@ Works on both desktop and mobile, accessed via web browser.
 
 Project is: _in progress_
 
-The website is currently in early development stage and should not be used by the public yet.
+The website is live but can still be improved upon.
 
 ## Deployment Status
 
-Not deployed
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9de13001-138d-4e70-957e-b4f3a7a522f9/deploy-status)](https://app.netlify.com/sites/privacytechresource/deploys)
 
 ## Room for Improvement
 
