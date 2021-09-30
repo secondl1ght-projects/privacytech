@@ -233,7 +233,11 @@ footer a:hover {
     font-size: 1rem;
   }
 
-  #books {
+  figure {
+    width: 95%;
+  }
+
+  #hardware {
     margin-bottom: 10%;
   }
 
@@ -241,12 +245,13 @@ footer a:hover {
     width: 95%;
     padding: 2%;
   }
+
+  footer p {
+    font-size: 0.5rem;
+  }
 }
 
 @media only screen and (max-width: 1350px) {
-  h1 {
-    width: 50%;
-  }
 
   .cardintro, .cardclick {
     height: 25rem;
