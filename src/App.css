@@ -216,6 +216,16 @@ footer a:hover {
   color: #1AB8C7;
 }
 
+@media only screen and (max-width: 1350px) {
+  .cardintro, .cardclick {
+    height: 25rem;
+  }
+
+  #intro, h1, figure {
+    width: 75%;
+  }
+}
+
 @media only screen and (max-width: 770px) {
   h1 {
     width: 95%;
@@ -253,16 +263,4 @@ footer a:hover {
   #foot {
     height: 2rem;
   }
-}
-
-@media only screen and (max-width: 1350px) {
-
-  .cardintro, .cardclick {
-    height: 25rem;
-  }
-
-  #intro, h1, figure {
-    width: 75%;
-  }
-
 }
