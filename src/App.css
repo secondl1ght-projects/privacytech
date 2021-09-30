@@ -224,7 +224,7 @@ footer a:hover {
 
   .cardintro, .cardclick {
     width: 80%;
-    height: 20rem;
+    height: 15rem;
     margin: 5%;
   }
 
@@ -246,7 +246,7 @@ footer a:hover {
     padding: 2%;
   }
 
-  footer p {
+  footer span {
     font-size: 0.5rem;
   }
 }
