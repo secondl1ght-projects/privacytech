@@ -11,6 +11,7 @@ import Operating from "./components/operating";
 import Hardware from "./components/hardware";
 import Stores from "./components/stores";
 import Video from './components/video'
+import ScrollArrow from './components/scrollarrow';
 import "./App.css";
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
       <Stores />
       <Operating />
       <Hardware />
+      <ScrollArrow />
     </>
   );
 }
