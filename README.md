@@ -4,6 +4,8 @@ A collection of useful privacy technologies to help protect your data and identi
 
 Link to site: <https://www.privacyresource.tech>
 
+![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fprivacyresource.tech)
+
 ## Table of Contents
 
 -   [General Info](#general-information)
