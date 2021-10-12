@@ -140,6 +140,10 @@ html {
   border: 1px solid black;
 }
 
+body {
+  animation: fadeIn 1s;
+}
+
 h2, h3, h4, button {
   font-family: 'Ubuntu', Sans-Serif;
 }
