@@ -119,6 +119,7 @@ button {
   color: whitesmoke;
   border: 5px solid #1AB8C7;
   font-size: 1.5rem;
+  box-shadow: 8px 8px 8px #35757A;
 }
 
 button:hover {
