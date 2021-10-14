@@ -36,7 +36,7 @@
 
 #email {
   background-image: url('./images/emailpic.jpg');
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -45,21 +45,21 @@
   background-image: url('./images/surf.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #extensions {
   background-image: url('./images/plug.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #hardware {
   background-image: url('./images/board.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
   margin-bottom: 5%;
 }
 
@@ -67,49 +67,49 @@
   background-image: url('./images/messaging.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #operating {
   background-image: url('./images/operating.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #search {
   background-image: url('./images/engine.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #social {
   background-image: url('./images/social.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #stores {
   background-image: url('./images/store.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #tunnel {
   background-image: url('./images/tunnel.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 #video {
   background-image: url('./images/video.jpg');
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .7);
+  box-shadow: inset 0 0 0 1000px rgba(108, 239, 251, .5);
 }
 
 button {
