@@ -8,6 +8,7 @@ import biblio from "../images/biblio.svg";
 import libreddit from "../images/libreddit.png";
 import slide from "../images/slide.png";
 import twire from "../images/twire.png";
+import twidere from '../images/twidere.jpg';
 
 export default function Social() {
   const [initial, setInitial] = React.useState(true);
@@ -56,6 +57,23 @@ export default function Social() {
             If you want a mobile app that allows you to follow accounts and have
             a feed, that's what Fritter does. It's awesome, you can have your
             own private Twitter feed.
+          </p>
+        </div>
+        <div class="box">
+          <h4>
+            <a
+              href="https://f-droid.org/en/packages/org.mariotaku.twidere/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Twidere
+            </a>
+          </h4>
+          <img src={twidere} alt="Twidere logo" />
+          <p>
+            This open source Twitter app lets you have full functionality if you
+            do have an account. You can still participate, but from a nice
+            distance.
           </p>
         </div>
         <div class="box">
