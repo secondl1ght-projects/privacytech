@@ -1,6 +1,5 @@
 import React from "react";
 import brave from "../images/brave.jpg";
-import ddg from "../images/ddg.jpg";
 
 export default function Search() {
   const [initial, setInitial] = React.useState(true);
