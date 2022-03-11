@@ -24,20 +24,6 @@ export default function Search() {
         <h3>Search privately</h3>
         <div class="box">
           <h4>
-            <a href="https://duckduckgo.com/" target="_blank" rel="noreferrer">
-              DuckDuckGo
-            </a>
-          </h4>
-          <img src={ddg} alt="DDG logo" />
-          <p>
-            DuckDuckGo is my favorite search engine currently. The results are
-            very good and it has all the same functionality you would expect
-            including maps, contact information for businesses and conversion
-            tools.
-          </p>
-        </div>
-        <div class="box">
-          <h4>
             <a
               href="https://search.brave.com/"
               target="_blank"
@@ -48,11 +34,9 @@ export default function Search() {
           </h4>
           <img src={brave} alt="Brave logo" />
           <p>
-            Still in beta but worth a mention is a search engine from the
-            awesome company Brave. They are building out an entire suite of
-            privacy products to disrupt industries and this is one of them. I
-            will personally be testing this out during the beta and may switch
-            to it in the future.
+            Still in beta but Brave Search is a search engine from the awesome
+            company Brave. They are building out an entire suite of privacy
+            products to disrupt industries and this is one of them.
           </p>
         </div>
       </div>
